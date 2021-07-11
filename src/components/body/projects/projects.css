@@ -1,0 +1,12 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.all-projects a{
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}

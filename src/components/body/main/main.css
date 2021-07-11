@@ -1,0 +1,49 @@
+.main{
+    margin-top: 90px;
+    margin-bottom: 30px;
+    padding-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-info{
+    font-size: 28px;
+}
+.main-info-name{
+    color: blue;
+    font-size: 32px;
+}
+.picture{
+    height: 420px;
+    border-radius: 100%;
+    border-color: blue;
+    border-style:solid;
+    border-width:medium;
+    box-shadow: 5px 10px 5px #888888;
+}
+.name{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.contacts a{
+    color: inherit;
+    margin-right: 10px;
+    font-size: 30px;
+}
+@media only screen and (max-width:720px){
+    .main{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .picture{
+        height: 280px;
+    }
+    .main-info{
+        font-size: 20px;
+    }
+    .main-info-name{
+       font-size: 26px; 
+    }
+}

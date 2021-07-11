@@ -1,0 +1,6 @@
+.about-info{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    font-size: 18px;
+}
