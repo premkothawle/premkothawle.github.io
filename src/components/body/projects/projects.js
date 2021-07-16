@@ -15,8 +15,9 @@ function Projects() {
             <div className="all-projects">
                 <center>
                 <a href="https://projectsbay.herokuapp.com/user/prem">
-                    View All On ProjectsBay
+                    &nbsp; View All On ProjectsBay &nbsp;
                 </a>
+                
                 </center>
             </div>
         </div>

@@ -4,10 +4,11 @@ import "./main.css"
 function Main() {
     return (
         <div className="main">
-            <div className="main-info">
-                👋 Hello! <br /> I am <span className="name"> Prem Kothawle</span> .
+            <div className="main-info" style={{fontWeight:'bold'}} >
+              
+                 I'm <span className="name" style={{fontWeight:'bold'}}> Prem!</span>
                 <br />
-                Full Stack Developer | ML & AI Enthusiast
+                Full Stack Web Developer | ML & AI Enthusiast
                 <div className="contacts">
                     <a href="https://github.com/kothawleprem"><i class="fab fa-github"></i></a>
                     <a href="https://www.linkedin.com/in/premkothawle/"> <i class="fab fa-linkedin"></i></a>

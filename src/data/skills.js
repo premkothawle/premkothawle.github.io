@@ -30,10 +30,10 @@ export const SkillData=[
                 name:"Django",
                 icon:<i class="devicon-django-plain-wordmark colored"></i>
             },
-            {
-                name:"NodeJS",
-                icon:<i class="devicon-nodejs-plain colored"></i>
-            }
+            // {
+            //     name:"NodeJS",
+            //     icon:<i class="devicon-nodejs-plain colored"></i>
+            // }
             
         ]
     },
