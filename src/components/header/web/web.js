@@ -14,6 +14,11 @@ function Web() {
                     <i class="fi-rr-laptop option-icon"></i>Projects
                 </a>
             </div>
+            <div className="web-option">
+                <a href="#articles">
+                    <i class="fi-rr-file option-icon"></i>Articles
+                </a>
+            </div>
         </div>
     )
 }

@@ -1,8 +1,16 @@
 export const ProjectData=[
     {
+        id:0,
+        title:"Avintra AI (In Progress)",
+        about:"Avintra is a simple to design and implement chatbot solution for early online users that wish to enhance client interaction on their platform with AI, thereby boosting their market development.",
+        tags:["Django REST","Node.js","Express.js","MongoDB","CSS"],
+        demo:'https://avintra.github.io/',
+        image: require("../assets/avintra.PNG").default,
+    },
+    {
         id:1,
         title:"ChartBay",
-        about:"ChartBay off ers a range of charts that can be created, shared & analyzed on the go. A User can manually or using a CSV fi le enter data and get visualizations in PNG or PDF format which canalso be emailed directly to user in 15 seconds.",
+        about:"ChartBay offers a range of charts that can be created, shared & analyzed on the go. A User can manually or using a CSV fi le enter data and get visualizations in PNG or PDF format which canalso be emailed directly to user in 15 seconds.",
         tags:["Django","Bootstrap","JavaScript","HTML","CSS","Heroku"],
         achievements:" ⭐ Best Overall Hack: 2nd Runner Up at Spârkåthon by NMIMS Navi Mumbai.",
         demo:'https://chartbay.herokuapp.com/',
@@ -35,6 +43,15 @@ export const ProjectData=[
         demo:"http://studentsbay.herokuapp.com/",
         github:"https://github.com/kothawleprem/StudentsBay",
         image:require("../assets/studentsbay.png").default
+    },
+    {
+        id:5,
+        title:"DelMax",
+        about:"Developed a Web Application to reduce the time and increase the efficiency of delivering products by a delivery person, along with other features. Here, used JSON data from the client and further processed it by filtering, storing it in the database, and plotting it on a Google Map, which is integrated into the Web App itself.",
+        tags:["Node.js","Express.js","React","MongoDB","Google APIs"],
+        achievements:" ⭐ 1st Runner Up at HackOverflow by NIT Meghalaya.",
+        github:"https://github.com/kothawleprem/dt-delivery",
+        image:require("../assets/delmax.PNG").default
     }
     
 ]

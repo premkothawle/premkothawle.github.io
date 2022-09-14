@@ -15,7 +15,8 @@
     font-size: 32px;
 }
 .picture{
-    height: 420px;
+    height: 320px;
+    width: 300px;
     border-radius: 100%;
     border-color: blue;
     border-style:solid;
