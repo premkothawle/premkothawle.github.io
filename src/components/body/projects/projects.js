@@ -12,14 +12,7 @@ function Projects() {
                     return <ProjectCard project={project}/>
                 })}
             </div>
-            <div className="all-projects">
-                <center>
-                <a href="https://projectsbay.herokuapp.com/user/prem">
-                    &nbsp; View All On ProjectsBay &nbsp;
-                </a>
-                
-                </center>
-            </div>
+           
         </div>
     )
 }
