@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.894a8c21.chunk.css",
-    "main.js": "/static/js/main.ab7b0dd5.chunk.js",
-    "main.js.map": "/static/js/main.ab7b0dd5.chunk.js.map",
+    "main.js": "/static/js/main.41b54e31.chunk.js",
+    "main.js.map": "/static/js/main.41b54e31.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2e5612f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.2e5612f9.js.map",
     "static/js/2.0a7510c0.chunk.js": "/static/js/2.0a7510c0.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.894a8c21.chunk.css.map": "/static/css/main.894a8c21.chunk.css.map",
     "static/js/2.0a7510c0.chunk.js.LICENSE.txt": "/static/js/2.0a7510c0.chunk.js.LICENSE.txt",
     "static/media/Prem_Updated_Photo.JPG": "/static/media/Prem_Updated_Photo.824d739b.JPG",
-    "static/media/avintra.PNG": "/static/media/avintra.1f07da69.PNG",
+    "static/media/backendifyi.png": "/static/media/backendifyi.a3e732bd.png",
     "static/media/chartbay.png": "/static/media/chartbay.e6718198.png",
     "static/media/delmax.PNG": "/static/media/delmax.0f89bc39.PNG",
     "static/media/projectsbay.png": "/static/media/projectsbay.58ddf922.png",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.2e5612f9.js",
     "static/js/2.0a7510c0.chunk.js",
     "static/css/main.894a8c21.chunk.css",
-    "static/js/main.ab7b0dd5.chunk.js"
+    "static/js/main.41b54e31.chunk.js"
   ]
 }
