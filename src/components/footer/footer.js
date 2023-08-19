@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import './footer.css'
 import axios from 'axios';
-import "mdb-ui-kit/css/mdb.min.css";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -118,7 +117,7 @@ function Footer() {
               <input
                 type="email"
                 class="form-control"
-                placeholder="Enter your Email Address"
+                placeholder="Enter Email Address"
                 value={email}
                 onChange={handleInputChange}
                 required
