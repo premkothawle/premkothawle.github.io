@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Building an AI SQL Agent with LangGraph",
+    "category": "AI",
+    "publication": "Hashnode",
+    "cover": "",
+    "url": "https://premm.hashnode.dev/sql-lg-agent",
+    "summary": "A practical guide to building an AI-powered SQL agent with LangGraph, covering agent workflows, SQL generation, validation, and execution.",
+    "tags": ["LangGraph", "LangChain", "LLMs", "SQL", "Agents"]
+  },
+  {
+    "title": "Understanding Large Language Models (LLMs)",
+    "category": "AI",
+    "publication": "Hashnode",
+    "cover": "",
+    "url": "https://premm.hashnode.dev/ai-and-large-language-models-what-they-are-and-why-they-matter",
+    "summary": "An introduction to Large Language Models, explaining how they work, their capabilities, limitations, and practical applications.",
+    "tags": ["LLMs", "AI", "Generative AI", "Transformers"]
+  },
+  {
+    "title": "Human Emotion Recognition Using CNN",
+    "category": "ML Research",
+    "publication": "Research Publication",
+    "cover": "",
+    "url": "https://nano-ntp.com/index.php/nano/article/view/991/873",
+    "summary": "Research work exploring facial emotion recognition using Convolutional Neural Networks for image classification tasks.",
+    "tags": ["CNN", "Deep Learning", "Computer Vision", "Research"]
+  },
+  {
+    "title": "Passwordless Authentication in Django REST Framework",
+    "category": "Backend",
+    "publication": "Hashnode",
+    "cover": "",
+    "url": "https://kothawleprem.hashnode.dev/streamlined-passwordless-authentication-in-django-rest-framework-with-passage-using-drf-passage-identity-a-seamless-integration-guide-with-reactjs",
+    "summary": "Learn how to implement secure passwordless authentication in Django REST Framework using email-based verification.",
+    "tags": ["Django", "Django REST Framework", "Authentication", "Python"]
+  },
+  {
+    "title": "Web Scraping and APIs in Flask",
+    "category": "Backend",
+    "publication": "GeeksforGeeks",
+    "cover": "",
+    "url": "https://www.geeksforgeeks.org/python/create-cricket-score-api-using-web-scraping-in-flask/",
+    "summary": "A guide to combining Flask with web scraping techniques to build lightweight REST APIs from publicly available web data.",
+    "tags": ["Flask", "Python", "Web Scraping", "REST API"]
+  },
+  {
+    "title": "Automating Spotify Audio Playback with Python",
+    "category": "Backend",
+    "publication": "Medium",
+    "cover": "",
+    "url": "https://medium.com/@kothawleprem/how-to-play-a-spotify-audio-with-python-7daca30677e3",
+    "summary": "Automate Spotify playback using Python by interacting with the Spotify Web API and desktop client.",
+    "tags": ["Python", "Spotify API", "Automation"]
+  },
+  {
+    "title": "Mobile Push Notifications for IoT Apps",
+    "category": "Mobile",
+    "publication": "Medium",
+    "cover": "",
+    "url": "https://medium.com/@kothawleprem/send-automated-push-notifications-depending-on-a-3rd-party-api-response-to-your-react-native-mobile-bf41f5c6d58b",
+    "summary": "Implement real-time push notifications for IoT-enabled mobile applications to improve communication and user engagement.",
+    "tags": ["IoT", "Push Notifications", "Mobile", "Firebase"]
+  },
+  {
+    "title": "Create Cricket Score API using Web Scraping in Flask",
+    "category": "Backend",
+    "publication": "GeeksforGeeks",
+    "cover": "",
+    "url": "https://www.geeksforgeeks.org/python/create-cricket-score-api-using-web-scraping-in-flask/",
+    "summary": "Build a Flask API that scrapes live cricket scores from publicly available scoreboards and exposes them through REST endpoints.",
+    "tags": ["Flask", "Python", "Web Scraping", "REST API", "Cricket"]
+  },
+  {
+    "title": "Create GitHub API to Fetch User Profile Image and Repository Count using Flask",
+    "category": "Backend",
+    "publication": "GeeksforGeeks",
+    "cover": "",
+    "url": "https://www.geeksforgeeks.org/python/create-github-api-to-fetch-user-profile-image-and-number-of-repositories-using-python-and-flask/",
+    "summary": "Learn how to build a Flask API that scrapes GitHub profile information, including profile images and repository statistics.",
+    "tags": ["Flask", "Python", "GitHub", "Web Scraping", "REST API"]
+  }
+]

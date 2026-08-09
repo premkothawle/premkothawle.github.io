@@ -1,0 +1,15 @@
+{
+  "name": "Prem Kothawle",
+  "role": "AI Engineer",
+  "focusTags": ["Backend", "AI Systems", "Developer Tools"],
+  "researchDirection": "Speech AI",
+  "building": "AI Workflows & Backend Platforms",
+  "writing": "Technical Articles and Research Papers",
+  "mission": "Building intelligent software with simplicity and scale",
+  "tagline": "Engineering AI systems that turn ideas into reliable, production-ready software.",
+  "shortDescription": "I design and build AI-powered applications, autonomous workflows, and scalable backend platforms. Along the way, I share what I learn through technical writing and open source.",
+  "about": "I'm a software engineer passionate about building intelligent software—from AI-powered enterprise solutions to SaaS products, developer tools, and backend platforms. My experience spans production AI workflows, scalable backend systems, and modern application development, with solutions delivered for leading organizations across industries, including financial services. Outside of work, I've earned recognition at national hackathons, contribute to open source, and enjoy sharing practical engineering insights through technical writing.",
+  "resumeUrl": "/resume.pdf",
+  "email": "kothawleprem@gmail.com",
+  "avatar": "/images/profile/avatar.jpg"
+}

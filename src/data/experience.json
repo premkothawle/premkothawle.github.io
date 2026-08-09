@@ -1,0 +1,34 @@
+[
+  {
+    "type": "work",
+    "title": "Software Engineer",
+    "organization": "Your Current Company",
+    "location": "Mumbai, India",
+    "date": "2025 — Present",
+    "description": "Building backend services and internal AI tooling. Replace with your current role details."
+  },
+  {
+    "type": "work",
+    "title": "Backend Developer Intern",
+    "organization": "Internship Company",
+    "location": "Remote",
+    "date": "2024 — 2025",
+    "description": "Built REST APIs with Django REST Framework, added background task processing with Celery, and documented endpoints with Sphinx."
+  },
+  {
+    "type": "achievement",
+    "title": "Research Paper Published",
+    "organization": "AIP Conference Proceedings",
+    "location": "",
+    "date": "2023",
+    "description": "Co-authored a research paper published in the AIP Conference Proceedings."
+  },
+  {
+    "type": "hackathon",
+    "title": "Hackathon Finalist",
+    "organization": "Name of Hackathon",
+    "location": "",
+    "date": "2023",
+    "description": "Replace with a hackathon you participated in and the outcome."
+  }
+]

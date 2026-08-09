@@ -1,0 +1,14 @@
+{
+  "title": "Prem Kothawle — Software Engineer",
+  "description": "Software engineer building backend platforms, AI systems, and developer tools.",
+  "url": "https://premkothawle.github.io",
+  "nav": [
+    { "label": "About", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Articles", "href": "#articles" },
+    { "label": "Credentials", "href": "#credentials" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "footerQuote": "Software is a series of small, deliberate decisions."
+}

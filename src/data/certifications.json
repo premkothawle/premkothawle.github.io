@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Azure AI Apps and Agents Developer Associate (AI-103)",
+    "issuer": "Microsoft",
+    "issued": "2026-08",
+    "url": "https://learn.microsoft.com/en-us/users/premkothawle-4683/credentials/91ad24b65b657058",      
+    "description": "Validates expertise in building AI-powered applications and agentic solutions using Azure AI services and modern AI development practices.",
+    "skills": [
+      "Azure AI",
+      "AI Agents",
+      "LLMs",
+      "Azure AI Foundry",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "title": "Generative AI Engineering with LLMs Specialization",
+    "issuer": "IBM",
+    "issued": "2025-11",
+    "url": "https://www.coursera.org/account/accomplishments/specialization/0WQB00CV0H70",
+    "description": "Specialization covering practical Generative AI development, LLM applications, prompt engineering, RAG, and AI system deployment.",
+    "skills": [
+      "Generative AI",
+      "LLMs",
+      "Prompt Engineering",
+      "RAG",
+      "AI Engineering"
+    ]
+  },
+  {
+    "title": "Applied Machine Learning in Python",
+    "issuer": "University of Michigan",
+    "issued": "2024-12",
+    "url": "https://www.coursera.org/account/accomplishments/verify/LHF2NZLJS8XS",
+    "description": "Focused on practical machine learning using Python, covering supervised learning, model evaluation, feature engineering, and Scikit-learn.",
+    "skills": [
+      "Python",
+      "Scikit-learn",
+      "Machine Learning",
+      "Classification",
+      "Data Analysis"
+    ]
+  },
+  {
+    "title": "Appian Certified Associate Developer",
+    "issuer": "Appian",
+    "issued": "2024-11",
+    "url": "",
+    "description": "Certification validating skills in designing business applications, workflows, and process automation using the Appian platform.",
+    "skills": [
+      "Appian",
+      "Workflow Automation",
+      "Business Process Management"
+    ]
+  },
+  {
+    "title": "Data Engineering Training",
+    "issuer": "LTIMindtree",
+    "issued": "2023-02",
+    "url": "https://drive.google.com/file/d/1JOnsmWkm202-sS5vH1qy357-BJKDhqw5/view",
+    "description": "Intensive industry training covering modern data engineering concepts, cloud technologies, and distributed data processing.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Hadoop",
+      "PySpark",
+      "AWS"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence and Machine Learning",
+    "issuer": "Knowledge Solutions India",
+    "issued": "2021-06",
+    "url": "https://drive.google.com/file/d/1r45IBYNJt89LTCMchkKV_qXJNAtFjemW/view",
+    "description": "Hands-on training in machine learning fundamentals with practical projects involving Logistic Regression and K-Means clustering.",
+    "skills": [
+      "Machine Learning",
+      "Logistic Regression",
+      "K-Means",
+      "Python"
+    ]
+  }
+]

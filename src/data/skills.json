@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Backend",
+    "items": [
+      { "name": "Python", "icon": "Code2" },
+      { "name": "Django", "icon": "Server" },
+      { "name": "FastAPI", "icon": "Zap" },
+      { "name": "Node.js", "icon": "Hexagon" },
+      { "name": "Celery", "icon": "RefreshCw" },
+      { "name": "REST APIs", "icon": "Share2" }
+    ]
+  },
+  {
+    "category": "AI",
+    "items": [
+      { "name": "LangChain", "icon": "Link2" },
+      { "name": "LangGraph", "icon": "Workflow" },
+      { "name": "RAG", "icon": "Search" },
+      { "name": "LLMs", "icon": "Brain" },
+      { "name": "Prompt Engineering", "icon": "Terminal" },
+      { "name": "Vector Databases", "icon": "Database" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      { "name": "PostgreSQL", "icon": "Database" },
+      { "name": "MongoDB", "icon": "Leaf" },
+      { "name": "Neo4j", "icon": "GitBranch" },
+      { "name": "ChromaDB", "icon": "Boxes" }
+    ]
+  },
+  {
+    "category": "Cloud & Tools",
+    "items": [
+      { "name": "Docker", "icon": "Container" },
+      { "name": "Azure", "icon": "Cloud" },
+      { "name": "AWS", "icon": "CloudCog" },
+      { "name": "GitHub Actions", "icon": "Github" },
+      { "name": "Nginx", "icon": "Network" },
+      { "name": "Git", "icon": "GitCommitHorizontal" }
+    ]
+  }
+]

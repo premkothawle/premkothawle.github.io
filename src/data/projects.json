@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "title": "Email Classification",
+    "description": "An enterprise AI workflow that classifies emails using their content, metadata, and attachments to automate case routing, information extraction, and business processes. Improved classification accuracy from 55% to 95% through prompt engineering and LLM optimization.",
+    "image": "",
+    "category": "AI",
+    "technologies": [
+      "Python",
+      "LLMs",
+      "Prompt Engineering",
+      "OCR",
+      "REST APIs"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Production"
+  },
+  {
+    "id": 2,
+    "title": "Knowledge Management Tool",
+    "description": "A scalable knowledge management and collaboration platform with Django REST APIs, PostgreSQL, Neo4j, asynchronous task processing, and comprehensive API documentation for enterprise teams.",
+    "image": "",
+    "category": "Backend",
+    "technologies": [
+      "Django REST Framework",
+      "PostgreSQL",
+      "Neo4j",
+      "Celery",
+      "Sphinx"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Production"
+  },
+  {
+    "id": 3,
+    "title": "SaaS Ideator",
+    "description": "An AI-powered SaaS planning platform that helps founders validate product ideas through Retrieval-Augmented Generation (RAG), semantic search, document indexing, and web knowledge analysis.",
+    "image": "",
+    "category": "AI",
+    "technologies": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "ChromaDB",
+      "RAG",
+      "Embeddings"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "MVP"
+  },
+  {
+    "id": 4,
+    "title": "KOSH",
+    "description": "An AI model evaluation framework for benchmarking multiple Large Language Models using quantitative metrics, confusion matrix analysis, and business-focused evaluation pipelines to support production model selection.",
+    "image": "",
+    "category": "AI",
+    "technologies": [
+      "Python",
+      "LLMs",
+      "Prompt Engineering",
+      "Evaluation",
+      "Classification"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Production"
+  },
+  {
+    "id": 5,
+    "title": "Backendifyi",
+    "description": "A Backend-as-a-Service (BaaS) platform that enables developers to integrate authentication, APIs, database management, and essential backend capabilities without building a dedicated backend.",
+    "image": "",
+    "category": "SaaS",
+    "technologies": [
+      "Django REST Framework",
+      "React.js",
+      "PostgreSQL"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Launching Soon"
+  },
+  {
+    "id": 6,
+    "title": "MedConnect",
+    "description": "A telemedicine platform enabling secure doctor-patient video consultations, appointment scheduling, slot management, online payments, and automated payouts through an integrated healthcare workflow.",
+    "image": "",
+    "category": "Healthcare",
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Django REST Framework",
+      "WebRTC",
+      "Azure",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Completed"
+  },
+  {
+    "id": 7,
+    "title": "DelMax",
+    "description": "A courier delivery optimization platform that analyzes delivery data, optimizes routes using Google Maps APIs, and visualizes deliveries through an interactive mapping interface.",
+    "image": "",
+    "category": "Web",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "React",
+      "MongoDB",
+      "Google Maps API"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Completed",
+    "award": "🥇 1st Runner Up • HackOverflow by NIT Meghalaya"
+  },
+  {
+    "id": 8,
+    "title": "ChartBay",
+    "description": "A data visualization platform that generates interactive charts from manual input or CSV files, with support for exporting reports as PNG and PDF and sharing them instantly.",
+    "image": "",
+    "category": "Web",
+    "technologies": [
+      "Django",
+      "Bootstrap",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": true,
+    "status": "Completed",
+    "award": "🥈 2nd Runner Up • Sparkathon by NMIMS Navi Mumbai"
+  },
+  {
+    "id": 9,
+    "title": "VacciFast",
+    "description": "A vaccination slot booking and management platform featuring intelligent slot allocation based on regional demand, Google Maps integration, and automated email notifications.",
+    "image": "",
+    "category": "Healthcare",
+    "technologies": [
+      "Django",
+      "Google Maps API",
+      "Bootstrap",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": false,
+    "status": "Completed"
+  },
+  {
+    "id": 10,
+    "title": "ProjectsBay",
+    "description": "A platform that enables developers and students to showcase, organize, and share software projects through customizable public project profiles.",
+    "image": "",
+    "category": "Open Source",
+    "technologies": [
+      "Django",
+      "MongoDB",
+      "Bootstrap",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": false,
+    "status": "Open Source"
+  },
+  {
+    "id": 11,
+    "title": "StudentsBay",
+    "description": "An academic communication platform that centralizes announcements, email notifications, grievance management, and searchable discussions for educational institutions.",
+    "image": "",
+    "category": "Education",
+    "technologies": [
+      "Django",
+      "Bootstrap",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "github": "",
+    "demo": "",
+    "featured": false,
+    "status": "Completed"
+  }
+]
